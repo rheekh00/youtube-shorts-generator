@@ -2,11 +2,13 @@
 
 본 프로젝트는 Generative AI를 활용하여 유튜브 쇼츠를 자동 생성하는 시스템을 개발하는 것을 목표로 합니다. 이 시스템은 텍스트 기반 스크립트 생성, 음성 내레이션 생성, 미디어 소스 수집, 비디오 생성 과정을 포함합니다. 각 단계는 Python 스크립트를 통해 구현되었으며, 다양한 외부 API와 라이브러리를 사용하여 효율적이고 자동화된 워크플로우를 제공합니다.
 
-- 유튜브 채널 [Koko_kpop_news](https://www.youtube.com/channel/UCi3q1s_8MDrjKsD31TkkeVg)을 개설하여 총 16개의 K-pop 뉴스를 일본어로 소개하는 쇼츠 영상을 업로드 하였고, 총 **113,617**회(2025.01.21 기준)의 조회수를 기록하였습니다.
-![Image](https://github.com/user-attachments/assets/302904f4-a6e1-4426-835e-d90e1ed98a33)<br><br>
+- 유튜브 채널 [Koko_kpop_news](https://www.youtube.com/channel/UCi3q1s_8MDrjKsD31TkkeVg)을 개설하여 총 16개의 K-pop 뉴스를 일본어로 소개하는 쇼츠 영상을 업로드 하였고, 총 **113,649**회(2025.01.24 기준)의 조회수를 기록하였습니다.
+![image](https://github.com/user-attachments/assets/cb4762dd-267d-42e9-bb96-33b3bf634d8f)
+<br><br>
 
 - 그 중 가장 인기있는 컨텐츠는 8.8만회의 조회수를 기록하였습니다.
-![Image](https://github.com/user-attachments/assets/434b88a3-c2fa-41fd-b06b-f1c652d15ff0)<br>
+![image](https://github.com/user-attachments/assets/cb2feb03-2f9c-4c7e-939c-23a5853e1120)
+<br>
 
 ---
 
