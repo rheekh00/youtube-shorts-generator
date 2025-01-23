@@ -32,7 +32,7 @@
 
 **출력**:<br><br>
 
-   ![Image](https://github.com/user-attachments/assets/3d447a32-3d15-4eee-9cd1-4ebfb249fa3f)
+   ![image](https://github.com/user-attachments/assets/2e185573-c950-4a2b-9b3d-038d1838717a)
 
 <br>
 
